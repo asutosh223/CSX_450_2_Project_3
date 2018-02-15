@@ -1,1 +1,13 @@
-# CSX_450_2_Project_3
+# Project - Boston Housing Dataset
+
+## Domain
+
+## Problem Statement
+
+## Data Description
+
+## Solution Statement
+
+## Benchmark Model
+
+## Conclusion
