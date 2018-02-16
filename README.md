@@ -40,8 +40,11 @@ First explore the data to obtain important features and descriptive statistics a
 
 ## Solution Statement
 
+A solution to the problem is to apply a regression model such as linear model,Decision Tree
 
 ## Benchmark Model
 
+- Benchmark Model - Mean
 
-## Conclusion
+- Performance Model - Adjusted R Squared
+
